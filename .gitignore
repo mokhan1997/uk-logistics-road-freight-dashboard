@@ -11,3 +11,4 @@ data/raw/*.txt
 data/processed/*.csv
 data/processed/*.db
 data/sample/*.csv
+data/raw/*.ods
