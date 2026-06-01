@@ -29,3 +29,13 @@ This page compares regional HGV traffic, LGV traffic, motor vehicle traffic, tra
 This page analyses regional road network length, road category distribution and road traffic pressure patterns.
 
 ![Road Network and Traffic Pressure Dashboard](powerbi/dashboard_screenshots/road_network_traffic_pressure.png)
+
+## Reports
+
+The project includes the following written reports:
+
+| Report                                                          | Purpose                                                                                                  |
+| --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| [Executive Summary](reports/executive_summary.md)               | Summarises the project purpose, business context, dashboard pages, key analysis areas and business value |
+| [Methodology](reports/methodology.md)                           | Explains the end-to-end project approach, from data sourcing through to SQL views and dashboarding       |
+| [Business Recommendations](reports/business_recommendations.md) | Converts the analysis into practical logistics, transport and operations recommendations                 |
